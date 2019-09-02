@@ -1,0 +1,164 @@
+
+ItemSourceDB = {
+}
+ObjectLocationDB = {
+}
+CreatureLocationDB = {
+}
+CreatureDB = {
+}
+QuestDB = {
+}
+QuestCompleteDB = {
+}
+QuestEventDB = {
+}
+SkillSourceDB = {
+}
+BigFootBot_Version = {
+}
+BigFootBot_Info = nil
+PlayersDB = {
+	["忘却为了纪念:匕首岭"] = {
+		["race"] = 7,
+		["name"] = "忘却为了纪念",
+		["guild"] = "不忘初心牢记使命",
+		["level"] = 19,
+		["gender"] = 3,
+		["class"] = 5,
+		["server"] = "匕首岭",
+	},
+	["冰雪风暴:匕首岭"] = {
+		["race"] = 6,
+		["name"] = "冰雪风暴",
+		["level"] = 12,
+		["gender"] = 3,
+		["class"] = 9,
+		["server"] = "匕首岭",
+	},
+	["羽刃:匕首岭"] = {
+		["race"] = 7,
+		["name"] = "羽刃",
+		["guild"] = "娱乐与家庭",
+		["level"] = 13,
+		["gender"] = 3,
+		["class"] = 4,
+		["server"] = "匕首岭",
+	},
+	["五分鐘的美麗:匕首岭"] = {
+		["race"] = 7,
+		["name"] = "五分鐘的美麗",
+		["guild"] = "For Queen",
+		["level"] = 16,
+		["gender"] = 3,
+		["class"] = 10,
+		["server"] = "匕首岭",
+	},
+	["魅力惑诱:匕首岭"] = {
+		["race"] = 6,
+		["name"] = "魅力惑诱",
+		["level"] = 10,
+		["gender"] = 3,
+		["class"] = 1,
+		["server"] = "匕首岭",
+	},
+	["暗夜的猫:匕首岭"] = {
+		["race"] = 6,
+		["name"] = "暗夜的猫",
+		["guild"] = "幻月天下",
+		["level"] = 12,
+		["gender"] = 3,
+		["class"] = 9,
+		["server"] = "匕首岭",
+	},
+	["Cinbada:匕首岭"] = {
+		["race"] = 7,
+		["name"] = "Cinbada",
+		["guild"] = "炽天之翼",
+		["level"] = 20,
+		["gender"] = 3,
+		["class"] = 2,
+		["server"] = "匕首岭",
+	},
+	["暮良文王:匕首岭"] = {
+		["race"] = 6,
+		["name"] = "暮良文王",
+		["level"] = 17,
+		["gender"] = 2,
+		["class"] = 5,
+		["server"] = "匕首岭",
+	},
+	["Ivvt:匕首岭"] = {
+		["race"] = 7,
+		["name"] = "Ivvt",
+		["guild"] = "彩虹屋",
+		["level"] = 26,
+		["gender"] = 2,
+		["class"] = 4,
+		["server"] = "匕首岭",
+	},
+	["浪一浪:匕首岭"] = {
+		["race"] = 9,
+		["name"] = "浪一浪",
+		["level"] = 6,
+		["gender"] = 2,
+		["class"] = 9,
+		["server"] = "匕首岭",
+	},
+	["劝人从医:匕首岭"] = {
+		["race"] = 6,
+		["name"] = "劝人从医",
+		["level"] = 18,
+		["gender"] = 2,
+		["class"] = 3,
+		["server"] = "匕首岭",
+	},
+	["Letmeseesee:匕首岭"] = {
+		["race"] = 6,
+		["name"] = "Letmeseesee",
+		["level"] = 1,
+		["gender"] = 3,
+		["class"] = 3,
+		["server"] = "匕首岭",
+	},
+	["蒲小美:匕首岭"] = {
+		["race"] = 6,
+		["name"] = "蒲小美",
+		["level"] = 9,
+		["gender"] = 3,
+		["class"] = 6,
+		["server"] = "匕首岭",
+	},
+	["卖面包的男生:匕首岭"] = {
+		["race"] = 6,
+		["name"] = "卖面包的男生",
+		["level"] = 10,
+		["gender"] = 2,
+		["class"] = 9,
+		["server"] = "匕首岭",
+	},
+	["Ramipasi:匕首岭"] = {
+		["race"] = 7,
+		["name"] = "Ramipasi",
+		["guild"] = "耳语微风",
+		["level"] = 17,
+		["gender"] = 3,
+		["class"] = 2,
+		["server"] = "匕首岭",
+	},
+}
+UtilDB = {
+	["M"] = {
+		["NumSysUnread"] = 0,
+		["MD5"] = "755644306362492947314783892033835643324",
+		["NumNormalRead"] = 1,
+		["NumSysRead"] = 0,
+		["NumNormalUnread"] = 0,
+	},
+}
+NPCMarkCollectionDB = {
+}
+BigFootBot_collectData = {
+}
+SpamChatDB = {
+}

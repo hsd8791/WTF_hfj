@@ -1,0 +1,18 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+		"/console SET chatClassColorOverride \"0\"", -- [1]
+		"/elvui", -- [2]
+		"我在做旧世界插件", -- [3]
+		"懂我", -- [4]
+		"/console SET targetNearestDistance \"50\"", -- [5]
+		"？", -- [6]
+		"/script SetCVar(\"cameraDistanceMax\", 50)", -- [7]
+		"我不玩怀旧 只做插件", -- [8]
+		"/s {委", -- [9]
+		"/framestack", -- [10]
+		"/s 1", -- [11]
+	},
+	["ChatHistoryLog"] = {
+	},
+}

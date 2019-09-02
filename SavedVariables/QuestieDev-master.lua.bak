@@ -1,0 +1,40 @@
+
+QuestieConfig = {
+	["char"] = {
+		["Minuitsun - 维希度斯"] = {
+			["journey"] = {
+				{
+					["Party"] = {
+					},
+					["Level"] = 1,
+					["Quest"] = 363,
+					["Timestamp"] = 1565327066,
+					["SubType"] = "Complete",
+					["Event"] = "Quest",
+				}, -- [1]
+				{
+					["Party"] = {
+					},
+					["Level"] = 1,
+					["Quest"] = 364,
+					["Timestamp"] = 1565327072,
+					["SubType"] = "Accept",
+					["Event"] = "Quest",
+				}, -- [2]
+			},
+			["complete"] = {
+				[363] = true,
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Minuitsun - 维希度斯"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["minimap"] = {
+				["minimapPos"] = 210.518281129692,
+			},
+		},
+	},
+}

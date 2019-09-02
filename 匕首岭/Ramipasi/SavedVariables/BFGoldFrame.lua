@@ -1,0 +1,3 @@
+
+BFGold_Config = {
+}

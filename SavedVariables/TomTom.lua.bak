@@ -1,0 +1,104 @@
+
+TomTomDB = {
+	["profileKeys"] = {
+		["全是人啊 - 水晶之牙"] = "Default",
+		["Ramipasi - 匕首岭"] = "Default",
+		["烟亦舞 - 辛迪加"] = "Default",
+		["哪里都排队 - 水晶之牙"] = "Default",
+		["烟亦舞 - 水晶之牙"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
+TomTomWaypoints = nil
+TomTomWaypointsM = {
+	["profileKeys"] = {
+		["全是人啊 - 水晶之牙"] = "全是人啊 - 水晶之牙",
+		["Ramipasi - 匕首岭"] = "Ramipasi - 匕首岭",
+		["烟亦舞 - 辛迪加"] = "烟亦舞 - 辛迪加",
+		["哪里都排队 - 水晶之牙"] = "哪里都排队 - 水晶之牙",
+		["烟亦舞 - 水晶之牙"] = "烟亦舞 - 水晶之牙",
+	},
+	["profiles"] = {
+		["全是人啊 - 水晶之牙"] = {
+		},
+		["Ramipasi - 匕首岭"] = {
+		},
+		["烟亦舞 - 辛迪加"] = {
+		},
+		["哪里都排队 - 水晶之牙"] = {
+			[1426] = {
+				["1426:292991536.52401:725060962.03497:丹莫罗: 29.30, 72.51"] = {
+					1426, -- [1]
+					0.292991536524009, -- [2]
+					0.72506096203497, -- [3]
+					["world"] = true,
+					["cleardistance"] = 10,
+					["title"] = "丹莫罗: 29.30, 72.51",
+					["arrivaldistance"] = 15,
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["crazy"] = true,
+					["persistent"] = true,
+					["minimap"] = true,
+				},
+			},
+		},
+		["烟亦舞 - 水晶之牙"] = {
+			[1426] = {
+				["1426:313966157.47274:742299569.60365:丹莫罗: 31.40, 74.23"] = {
+					1426, -- [1]
+					0.313966157472743, -- [2]
+					0.742299569603646, -- [3]
+					["arrivaldistance"] = 15,
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["persistent"] = true,
+					["desc"] = "丹莫罗: 31.40, 74.23",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "丹莫罗: 31.40, 74.23",
+					["crazy"] = true,
+					["minimap"] = true,
+					["world"] = true,
+				},
+				["1426:300000000:710000000:"] = {
+					1426, -- [1]
+					0.3, -- [2]
+					0.71, -- [3]
+					["arrivaldistance"] = 15,
+					["callbacks"] = {
+						["distance"] = {
+						},
+						["minimap"] = {
+						},
+						["world"] = {
+						},
+					},
+					["persistent"] = true,
+					["desc"] = "",
+					["silent"] = true,
+					["cleardistance"] = 10,
+					["title"] = "",
+					["crazy"] = true,
+					["minimap"] = true,
+					["world"] = true,
+				},
+			},
+		},
+	},
+}

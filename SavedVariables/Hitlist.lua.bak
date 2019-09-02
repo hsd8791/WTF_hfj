@@ -1,0 +1,50 @@
+
+Hitlist_settings = {
+	["nearbyListShown"] = false,
+	["showKillerList"] = true,
+	["debug"] = false,
+	["triggerNameCd"] = 120,
+	["nearbyListMaxShow"] = 5,
+	["triggerCd"] = 30,
+	["syncChannel"] = false,
+	["playSound"] = true,
+	["nearbyListLocked"] = false,
+	["channelName"] = "",
+	["version"] = "1.0",
+	["syncGuild"] = false,
+	["channelPw"] = "",
+	["snapToMinimap"] = true,
+	["stealthAlertAll"] = false,
+	["firstStart"] = false,
+}
+Hitlist_data = {
+	["辛迪加"] = {
+		["nearbyWhitelist"] = {
+		},
+		["localNames"] = {
+			["烟亦舞"] = true,
+		},
+		["entries"] = {
+		},
+	},
+	["水晶之牙"] = {
+		["nearbyWhitelist"] = {
+		},
+		["localNames"] = {
+			["全是人啊"] = true,
+			["烟亦舞"] = true,
+			["哪里都排队"] = true,
+		},
+		["entries"] = {
+		},
+	},
+	["匕首岭"] = {
+		["nearbyWhitelist"] = {
+		},
+		["localNames"] = {
+			["Ramipasi"] = true,
+		},
+		["entries"] = {
+		},
+	},
+}

@@ -1,0 +1,46 @@
+
+alaBaseData = {
+	["xBtn"] = {
+		["scale"] = 0.9,
+		["posEx"] = "ABOVE_CHATFRAME",
+		["_version"] = 1.04,
+		["pos"] = {
+			"BOTTOMLEFT", -- [1]
+			nil, -- [2]
+			"BOTTOMLEFT", -- [3]
+			2.77792859077454, -- [4]
+			5.1109790802002, -- [5]
+		},
+	},
+}
+alaChatConfig = {
+	["scale"] = 0.9,
+	["ReadyCheck"] = true,
+	["shortChannelName"] = true,
+	["bfWorld_Ignore_BtnSize"] = 28,
+	["channelBarChannel"] = {
+		true, -- [1]
+		true, -- [2]
+		true, -- [3]
+		true, -- [4]
+		true, -- [5]
+		true, -- [6]
+		true, -- [7]
+		true, -- [8]
+		true, -- [9]
+		true, -- [10]
+	},
+	["copy"] = true,
+	["bfWorld_Ignore_Switch"] = false,
+	["hideConfBtn"] = false,
+	["welcomeToGuild"] = true,
+	["chatEmote"] = true,
+	["filterQuestAnn"] = false,
+	["itemLinkEnhanced"] = false,
+	["roll"] = true,
+	["position"] = true,
+	["DBMCountDown"] = true,
+	["ColorNameByClass"] = true,
+	["broadCastNewMember"] = false,
+	["bfWorld_Ignore"] = false,
+}

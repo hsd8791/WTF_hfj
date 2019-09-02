@@ -1,0 +1,8 @@
+VER 3 0000000001000002 "c" "INV_MISC_QUESTIONMARK"
+#showtooltips
+/cast [stance:1]压制;复仇
+END
+VER 3 0000000001000001 "谢谢" "INV_MISC_QUESTIONMARK"
+/s 谢谢
+/敬礼
+END

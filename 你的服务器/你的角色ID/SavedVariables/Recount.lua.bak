@@ -1,0 +1,2850 @@
+
+RecountPerCharDB = {
+	["version"] = "1.3",
+	["combatants"] = {
+		["Minuitsun"] = {
+			["GUID"] = "Player-4533-00011FC4",
+			["LastEventHealth"] = {
+				62, -- [1]
+				61, -- [2]
+				61, -- [3]
+				61, -- [4]
+				59, -- [5]
+				59, -- [6]
+				77, -- [7]
+				77, -- [8]
+				77, -- [9]
+				75, -- [10]
+				75, -- [11]
+				75, -- [12]
+				73, -- [13]
+				73, -- [14]
+				73, -- [15]
+				71, -- [16]
+				71, -- [17]
+				77, -- [18]
+				77, -- [19]
+				77, -- [20]
+				77, -- [21]
+				77, -- [22]
+				77, -- [23]
+				77, -- [24]
+				77, -- [25]
+				77, -- [26]
+				77, -- [27]
+				75, -- [28]
+				75, -- [29]
+				77, -- [30]
+				77, -- [31]
+				77, -- [32]
+				75, -- [33]
+				75, -- [34]
+				74, -- [35]
+				74, -- [36]
+				74, -- [37]
+				77, -- [38]
+				77, -- [39]
+				77, -- [40]
+				77, -- [41]
+				77, -- [42]
+				77, -- [43]
+				77, -- [44]
+				75, -- [45]
+				75, -- [46]
+				77, -- [47]
+				62, -- [48]
+				62, -- [49]
+				62, -- [50]
+			},
+			["LastAttackedBy"] = "夜行蝙蝠",
+			["LastEventType"] = {
+				"DAMAGE", -- [1]
+				"DAMAGE", -- [2]
+				"DAMAGE", -- [3]
+				"DAMAGE", -- [4]
+				"DAMAGE", -- [5]
+				"DAMAGE", -- [6]
+				"DAMAGE", -- [7]
+				"DAMAGE", -- [8]
+				"DAMAGE", -- [9]
+				"DAMAGE", -- [10]
+				"DAMAGE", -- [11]
+				"DAMAGE", -- [12]
+				"DAMAGE", -- [13]
+				"DAMAGE", -- [14]
+				"DAMAGE", -- [15]
+				"DAMAGE", -- [16]
+				"DAMAGE", -- [17]
+				"DAMAGE", -- [18]
+				"DAMAGE", -- [19]
+				"DAMAGE", -- [20]
+				"DAMAGE", -- [21]
+				"DAMAGE", -- [22]
+				"DAMAGE", -- [23]
+				"DAMAGE", -- [24]
+				"DAMAGE", -- [25]
+				"DAMAGE", -- [26]
+				"DAMAGE", -- [27]
+				"DAMAGE", -- [28]
+				"DAMAGE", -- [29]
+				"DAMAGE", -- [30]
+				"DAMAGE", -- [31]
+				"DAMAGE", -- [32]
+				"DAMAGE", -- [33]
+				"DAMAGE", -- [34]
+				"DAMAGE", -- [35]
+				"DAMAGE", -- [36]
+				"DAMAGE", -- [37]
+				"DAMAGE", -- [38]
+				"DAMAGE", -- [39]
+				"DAMAGE", -- [40]
+				"DAMAGE", -- [41]
+				"DAMAGE", -- [42]
+				"DAMAGE", -- [43]
+				"DAMAGE", -- [44]
+				"DAMAGE", -- [45]
+				"DAMAGE", -- [46]
+				"DAMAGE", -- [47]
+				"DAMAGE", -- [48]
+				"DAMAGE", -- [49]
+				"DAMAGE", -- [50]
+			},
+			["TimeWindows"] = {
+				["ActiveTime"] = {
+					84.36, -- [1]
+				},
+				["TimeDamage"] = {
+					84.36, -- [1]
+				},
+				["DOT_Time"] = {
+					57, -- [1]
+				},
+				["DamageTaken"] = {
+					64, -- [1]
+				},
+				["Damage"] = {
+					734, -- [1]
+				},
+			},
+			["enClass"] = "MAGE",
+			["unit"] = "Minuitsun",
+			["level"] = 1,
+			["LastDamageAbility"] = "肉搏",
+			["LastFightIn"] = 11,
+			["LastActive"] = 341058.043,
+			["type"] = "Self",
+			["FightsSaved"] = 5,
+			["LastEventHealthMax"] = {
+				62, -- [1]
+				62, -- [2]
+				62, -- [3]
+				62, -- [4]
+				62, -- [5]
+				62, -- [6]
+				77, -- [7]
+				77, -- [8]
+				77, -- [9]
+				77, -- [10]
+				77, -- [11]
+				77, -- [12]
+				77, -- [13]
+				77, -- [14]
+				77, -- [15]
+				77, -- [16]
+				77, -- [17]
+				77, -- [18]
+				77, -- [19]
+				77, -- [20]
+				77, -- [21]
+				77, -- [22]
+				77, -- [23]
+				77, -- [24]
+				77, -- [25]
+				77, -- [26]
+				77, -- [27]
+				77, -- [28]
+				77, -- [29]
+				77, -- [30]
+				77, -- [31]
+				77, -- [32]
+				77, -- [33]
+				77, -- [34]
+				77, -- [35]
+				77, -- [36]
+				77, -- [37]
+				77, -- [38]
+				77, -- [39]
+				77, -- [40]
+				77, -- [41]
+				77, -- [42]
+				77, -- [43]
+				77, -- [44]
+				77, -- [45]
+				77, -- [46]
+				77, -- [47]
+				62, -- [48]
+				62, -- [49]
+				62, -- [50]
+			},
+			["TimeLast"] = {
+				["ActiveTime"] = 341058.043,
+				["TimeDamage"] = 341058.043,
+				["DOT_Time"] = 319379.548,
+				["OVERALL"] = 341058.043,
+				["DamageTaken"] = 319378.548,
+				["Damage"] = 341058.043,
+			},
+			["Owner"] = false,
+			["Name"] = "Minuitsun",
+			["NextEventNum"] = 48,
+			["LastDamageTime"] = 341058.263,
+			["LastEvents"] = {
+				"食腐狼幼崽 肉搏 Minuitsun Hit -1 (Physical)", -- [1]
+				"Minuitsun 火球术 (伤害/跳) 食腐狼幼崽 Tick -1 (Fire)", -- [2]
+				"Minuitsun 肉搏 食腐狼幼崽 Hit -6 (Physical)", -- [3]
+				"食腐狼幼崽 肉搏 Minuitsun Hit -2 (Physical)", -- [4]
+				"Minuitsun 火球术 (伤害/跳) 食腐狼幼崽 Tick -1 (Fire)", -- [5]
+				"Minuitsun 肉搏 食腐狼幼崽 Glancing -5 (Physical)", -- [6]
+				"Minuitsun 火球术 小夜行蜘蛛 Resist (Fire)", -- [7]
+				"Minuitsun 火球术 小夜行蜘蛛 Hit -22 (Fire)", -- [8]
+				"小夜行蜘蛛 肉搏 Minuitsun Hit -2 (Physical)", -- [9]
+				"Minuitsun 火球术 (伤害/跳) 小夜行蜘蛛 Tick -1 (Fire)", -- [10]
+				"Minuitsun 火球术 小夜行蜘蛛 Hit -15 (Fire)", -- [11]
+				"小夜行蜘蛛 肉搏 Minuitsun Hit -2 (Physical)", -- [12]
+				"Minuitsun 火球术 (伤害/跳) 小夜行蜘蛛 Tick -1 (Fire)", -- [13]
+				"Minuitsun 火球术 小夜行蜘蛛 Resist (Fire)", -- [14]
+				"小夜行蜘蛛 肉搏 Minuitsun Hit -2 (Physical)", -- [15]
+				"Minuitsun 火球术 (伤害/跳) 小夜行蜘蛛 Tick -1 (Fire)", -- [16]
+				"Minuitsun 火球术 小夜行蜘蛛 Crit -30 (Fire)", -- [17]
+				"Minuitsun 火球术 夜行蝙蝠 Hit -23 (Fire)", -- [18]
+				"夜行蝙蝠 肉搏 Minuitsun Hit -1 (Physical)", -- [19]
+				"Minuitsun 火球术 夜行蝙蝠 Hit -19 (Fire)", -- [20]
+				"Minuitsun 火球术 夜行蝙蝠 Hit -16 (Fire)", -- [21]
+				"Minuitsun 火球术 夜行蝙蝠 Hit -17 (Fire)", -- [22]
+				"夜行蝙蝠 肉搏 Minuitsun Hit -2 (Physical)", -- [23]
+				"Minuitsun 火球术 夜行蝙蝠 Hit -21 (Fire)", -- [24]
+				"Minuitsun 火球术 丑陋的僵尸 Hit -18 (Fire)", -- [25]
+				"Minuitsun 火球术 丑陋的僵尸 Hit -22 (Fire)", -- [26]
+				"丑陋的僵尸 肉搏 Minuitsun Hit -2 (Physical)", -- [27]
+				"Minuitsun 火球术 (伤害/跳) 丑陋的僵尸 Tick -1 (Fire)", -- [28]
+				"Minuitsun 火球术 丑陋的僵尸 Hit -19 (Fire)", -- [29]
+				"Minuitsun 火球术 食腐狼幼崽 Hit -15 (Fire)", -- [30]
+				"Minuitsun 火球术 食腐狼幼崽 Hit -22 (Fire)", -- [31]
+				"食腐狼幼崽 肉搏 Minuitsun Hit -2 (Physical)", -- [32]
+				"Minuitsun 火球术 (伤害/跳) 食腐狼幼崽 Tick -1 (Fire)", -- [33]
+				"食腐狼幼崽 肉搏 Minuitsun Hit -1 (Physical)", -- [34]
+				"Minuitsun 火球术 (伤害/跳) 食腐狼幼崽 Tick -1 (Fire)", -- [35]
+				"食腐狼幼崽 肉搏 Minuitsun Hit -2 (Physical)", -- [36]
+				"Minuitsun 肉搏 食腐狼幼崽 Hit -6 (Physical)", -- [37]
+				"Minuitsun 火球术 断骨骷髅 Hit -21 (Fire)", -- [38]
+				"Minuitsun 火球术 断骨骷髅 Crit -32 (Fire)", -- [39]
+				"Minuitsun 火球术 断骨骷髅 Hit -15 (Fire)", -- [40]
+				"Minuitsun 火球术 夜行蝙蝠 Hit -16 (Fire)", -- [41]
+				"Minuitsun 火球术 夜行蝙蝠 Hit -20 (Fire)", -- [42]
+				"Minuitsun 火球术 夜行蝙蝠 Hit -14 (Fire)", -- [43]
+				"夜行蝙蝠 肉搏 Minuitsun Hit -2 (Physical)", -- [44]
+				"Minuitsun 火球术 (伤害/跳) 夜行蝙蝠 Tick -1 (Fire)", -- [45]
+				"Minuitsun 火球术 夜行蝙蝠 Hit -17 (Fire)", -- [46]
+				"Minuitsun 火球术 老鼠 Hit -20 (Fire)", -- [47]
+				"Minuitsun 火球术 食腐狼幼崽 Hit -15 (Fire)", -- [48]
+				"Minuitsun 火球术 (伤害/跳) 食腐狼幼崽 Tick -1 (Fire)", -- [49]
+				"Minuitsun 火球术 食腐狼幼崽 Hit -16 (Fire)", -- [50]
+			},
+			["LastEventIncoming"] = {
+				true, -- [1]
+				false, -- [2]
+				false, -- [3]
+				true, -- [4]
+				false, -- [5]
+				false, -- [6]
+				false, -- [7]
+				false, -- [8]
+				true, -- [9]
+				false, -- [10]
+				false, -- [11]
+				true, -- [12]
+				false, -- [13]
+				false, -- [14]
+				true, -- [15]
+				false, -- [16]
+				false, -- [17]
+				false, -- [18]
+				true, -- [19]
+				false, -- [20]
+				false, -- [21]
+				false, -- [22]
+				true, -- [23]
+				false, -- [24]
+				false, -- [25]
+				false, -- [26]
+				true, -- [27]
+				false, -- [28]
+				false, -- [29]
+				false, -- [30]
+				false, -- [31]
+				true, -- [32]
+				false, -- [33]
+				true, -- [34]
+				false, -- [35]
+				true, -- [36]
+				false, -- [37]
+				false, -- [38]
+				false, -- [39]
+				false, -- [40]
+				false, -- [41]
+				false, -- [42]
+				false, -- [43]
+				true, -- [44]
+				false, -- [45]
+				false, -- [46]
+				false, -- [47]
+				false, -- [48]
+				false, -- [49]
+				false, -- [50]
+			},
+			["LastEventTimes"] = {
+				314712.157, -- [1]
+				314713.157, -- [2]
+				314713.567, -- [3]
+				314714.547, -- [4]
+				314715.097, -- [5]
+				314716.527, -- [6]
+				314726.189, -- [7]
+				314727.529, -- [8]
+				314728.149, -- [9]
+				314729.529, -- [10]
+				314729.829, -- [11]
+				314730.539, -- [12]
+				314731.839, -- [13]
+				314732.589, -- [14]
+				314733.039, -- [15]
+				314733.839, -- [16]
+				314734.899, -- [17]
+				315099.432, -- [18]
+				315100.892, -- [19]
+				315101.112, -- [20]
+				315132.742, -- [21]
+				315134.522, -- [22]
+				315135.572, -- [23]
+				315135.572, -- [24]
+				315213.202, -- [25]
+				315214.582, -- [26]
+				315215.212, -- [27]
+				315216.582, -- [28]
+				315216.942, -- [29]
+				315236.575, -- [30]
+				315238.205, -- [31]
+				315238.885, -- [32]
+				315240.265, -- [33]
+				315241.245, -- [34]
+				315242.285, -- [35]
+				315243.815, -- [36]
+				315243.945, -- [37]
+				315261.966, -- [38]
+				315263.566, -- [39]
+				315264.656, -- [40]
+				319375.438, -- [41]
+				319377.198, -- [42]
+				319378.508, -- [43]
+				319378.998, -- [44]
+				319380.508, -- [45]
+				319380.608, -- [46]
+				341058.263, -- [47]
+				314708.467, -- [48]
+				314710.467, -- [49]
+				314711.157, -- [50]
+			},
+			["Fights"] = {
+				["Fight3"] = {
+					["DOTs"] = {
+						["火球术 (伤害/跳)"] = {
+							["Details"] = {
+								["夜行蝙蝠"] = {
+									["count"] = 0,
+								},
+								["食腐狼幼崽"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 6,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 5,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 5,
+					},
+					["HOTs"] = {
+					},
+					["Damage"] = 45,
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["DamagedWho"] = {
+						["夜行蝙蝠"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 0,
+								},
+								["火球术 (伤害/跳)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["食腐狼幼崽"] = {
+							["Details"] = {
+								["火球术 (伤害/跳)"] = {
+									["count"] = 2,
+								},
+								["火球术"] = {
+									["count"] = 37,
+								},
+								["肉搏"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 45,
+						},
+					},
+					["FAttacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["ElementDone"] = {
+						["Melee"] = 6,
+						["Fire"] = 39,
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["WhoDamaged"] = {
+						["夜行蝙蝠"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["食腐狼幼崽"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 5,
+								},
+							},
+							["amount"] = 5,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["CCBroken"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["Dispelled"] = 0,
+					["WhoHealed"] = {
+					},
+					["HealedWho"] = {
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["FDamage"] = 0,
+					["EnergyGain"] = 0,
+					["ManaGained"] = {
+					},
+					["PartialAbsorb"] = {
+						["肉搏"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 7.5,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["夜行蝙蝠"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 0,
+								},
+								["火球术 (伤害/跳)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["食腐狼幼崽"] = {
+							["Details"] = {
+								["火球术 (伤害/跳)"] = {
+									["count"] = 3,
+								},
+								["火球术"] = {
+									["count"] = 3,
+								},
+								["肉搏"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 7.5,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["Interrupts"] = 0,
+					["EnergyGained"] = {
+					},
+					["PartialResist"] = {
+						["肉搏"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 3,
+						},
+					},
+					["Healing"] = 0,
+					["OverHeals"] = {
+					},
+					["RageGained"] = {
+					},
+					["Attacks"] = {
+						["火球术 (伤害/跳)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 1,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 2,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 2,
+						},
+						["火球术"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 22,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 37,
+								},
+							},
+							["count"] = 2,
+							["amount"] = 37,
+						},
+						["肉搏"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 6,
+									["min"] = 6,
+									["count"] = 1,
+									["amount"] = 6,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 6,
+						},
+					},
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 7.5,
+					["TimeDamaging"] = {
+						["夜行蝙蝠"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 0,
+								},
+								["火球术 (伤害/跳)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["食腐狼幼崽"] = {
+							["Details"] = {
+								["火球术 (伤害/跳)"] = {
+									["count"] = 3,
+								},
+								["火球术"] = {
+									["count"] = 3,
+								},
+								["肉搏"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 7.5,
+						},
+					},
+					["ManaGain"] = 0,
+					["DOT_Time"] = 6,
+					["DispelledWho"] = {
+					},
+				},
+				["Fight5"] = {
+					["DOTs"] = {
+						["火球术 (伤害/跳)"] = {
+							["Details"] = {
+								["小夜行蜘蛛"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["TimeSpent"] = {
+						["无脑的僵尸"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["小夜行蜘蛛"] = {
+							["Details"] = {
+								["火球术 (伤害/跳)"] = {
+									["count"] = 0,
+								},
+								["火球术"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["夜行蝙蝠"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 4.05,
+								},
+							},
+							["amount"] = 4.05,
+						},
+					},
+					["DamageTaken"] = 2,
+					["PartialResist"] = {
+						["弱效毒药 (伤害/跳)"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["肉搏"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+					},
+					["PartialAbsorb"] = {
+						["弱效毒药 (伤害/跳)"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["肉搏"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 4.05,
+					["ElementTaken"] = {
+						["Melee"] = 2,
+						["Nature"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["Damage"] = 54,
+					["ElementDone"] = {
+						["Melee"] = 0,
+						["Fire"] = 54,
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DamagedWho"] = {
+						["无脑的僵尸"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["小夜行蜘蛛"] = {
+							["Details"] = {
+								["火球术 (伤害/跳)"] = {
+									["count"] = 0,
+								},
+								["火球术"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["夜行蝙蝠"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 54,
+								},
+							},
+							["amount"] = 54,
+						},
+					},
+					["TimeDamage"] = 4.05,
+					["TimeDamaging"] = {
+						["无脑的僵尸"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["小夜行蜘蛛"] = {
+							["Details"] = {
+								["火球术 (伤害/跳)"] = {
+									["count"] = 0,
+								},
+								["火球术"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["夜行蝙蝠"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 4.05,
+								},
+							},
+							["amount"] = 4.05,
+						},
+					},
+					["Attacks"] = {
+						["火球术 (伤害/跳)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["火球术"] = {
+							["Details"] = {
+								["Resist"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 21,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 54,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 54,
+						},
+						["肉搏"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["WhoDamaged"] = {
+						["小夜行蜘蛛"] = {
+							["Details"] = {
+								["弱效毒药 (伤害/跳)"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["夜行蝙蝠"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Resist"] = {
+									["count"] = 0,
+								},
+								["Tick"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+				},
+				["CurrentFightData"] = {
+					["DOTs"] = {
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["Damage"] = 0,
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["FAttacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["ElementDone"] = {
+						["Fire"] = 0,
+					},
+					["DamagedWho"] = {
+						["老鼠"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["夜行蝙蝠"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["WhoDamaged"] = {
+						["夜行蝙蝠"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["CCBroken"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["HealedWho"] = {
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["PartialAbsorb"] = {
+						["肉搏"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["PartialResist"] = {
+						["肉搏"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["老鼠"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["夜行蝙蝠"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["ActiveTime"] = 0,
+					["EnergyGained"] = {
+					},
+					["EnergyGain"] = 0,
+					["Healing"] = 0,
+					["Dispelled"] = 0,
+					["RageGained"] = {
+					},
+					["Attacks"] = {
+						["火球术"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 0,
+					["TimeDamaging"] = {
+						["老鼠"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["夜行蝙蝠"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight2"] = {
+					["DOTs"] = {
+						["火球术 (伤害/跳)"] = {
+							["Details"] = {
+								["食腐狼幼崽"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 0,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["Damage"] = 68,
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 0,
+					},
+					["DOT_Time"] = 0,
+					["ElementTakenBlock"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 0,
+								},
+								["Crit"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["FAttacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["ElementDone"] = {
+						["Melee"] = 0,
+						["Fire"] = 68,
+					},
+					["DamagedWho"] = {
+						["断骨骷髅"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 68,
+								},
+							},
+							["amount"] = 68,
+						},
+						["食腐狼幼崽"] = {
+							["Details"] = {
+								["火球术 (伤害/跳)"] = {
+									["count"] = 0,
+								},
+								["火球术"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["WhoDamaged"] = {
+						["食腐狼幼崽"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["CCBroken"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["HealedWho"] = {
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["PartialAbsorb"] = {
+						["肉搏"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["PartialResist"] = {
+						["肉搏"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["断骨骷髅"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 4.09,
+								},
+							},
+							["amount"] = 4.09,
+						},
+						["食腐狼幼崽"] = {
+							["Details"] = {
+								["火球术 (伤害/跳)"] = {
+									["count"] = 0,
+								},
+								["火球术"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["ActiveTime"] = 4.09,
+					["EnergyGained"] = {
+					},
+					["EnergyGain"] = 0,
+					["Healing"] = 0,
+					["Dispelled"] = 0,
+					["RageGained"] = {
+					},
+					["Attacks"] = {
+						["火球术 (伤害/跳)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+						["火球术"] = {
+							["Details"] = {
+								["Crit"] = {
+									["max"] = 32,
+									["min"] = 32,
+									["count"] = 1,
+									["amount"] = 32,
+								},
+								["Hit"] = {
+									["max"] = 21,
+									["min"] = 0,
+									["count"] = 2,
+									["amount"] = 36,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 68,
+						},
+						["肉搏"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 4.09,
+					["TimeDamaging"] = {
+						["断骨骷髅"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 4.09,
+								},
+							},
+							["amount"] = 4.09,
+						},
+						["食腐狼幼崽"] = {
+							["Details"] = {
+								["火球术 (伤害/跳)"] = {
+									["count"] = 0,
+								},
+								["火球术"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight4"] = {
+					["DOTs"] = {
+						["火球术 (伤害/跳)"] = {
+							["Details"] = {
+								["小夜行蜘蛛"] = {
+									["count"] = 0,
+								},
+								["丑陋的僵尸"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 2,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["Damage"] = 60,
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 2,
+					},
+					["DOT_Time"] = 3,
+					["ElementTakenBlock"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["FAttacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["ElementDone"] = {
+						["Fire"] = 60,
+					},
+					["DamagedWho"] = {
+						["小夜行蜘蛛"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 0,
+								},
+								["火球术 (伤害/跳)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["丑陋的僵尸"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 59,
+								},
+								["火球术 (伤害/跳)"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 60,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["CCBroken"] = {
+					},
+					["WhoDamaged"] = {
+						["小夜行蜘蛛"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["丑陋的僵尸"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["HealedWho"] = {
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["PartialAbsorb"] = {
+						["肉搏"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["PartialResist"] = {
+						["肉搏"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+					},
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["小夜行蜘蛛"] = {
+							["Details"] = {
+								["火球术 (伤害/跳)"] = {
+									["count"] = 0,
+								},
+								["火球术"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["丑陋的僵尸"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 3.24,
+								},
+								["火球术 (伤害/跳)"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 4.74,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["ActiveTime"] = 4.74,
+					["EnergyGained"] = {
+					},
+					["EnergyGain"] = 0,
+					["Healing"] = 0,
+					["Dispelled"] = 0,
+					["RageGained"] = {
+					},
+					["Attacks"] = {
+						["火球术 (伤害/跳)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 1,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 1,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 1,
+						},
+						["火球术"] = {
+							["Details"] = {
+								["Hit"] = {
+									["max"] = 22,
+									["min"] = 0,
+									["count"] = 3,
+									["amount"] = 59,
+								},
+							},
+							["count"] = 3,
+							["amount"] = 59,
+						},
+						["肉搏"] = {
+							["Details"] = {
+								["Parry"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 0,
+						},
+					},
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 4.74,
+					["TimeDamaging"] = {
+						["小夜行蜘蛛"] = {
+							["Details"] = {
+								["火球术 (伤害/跳)"] = {
+									["count"] = 0,
+								},
+								["火球术"] = {
+									["count"] = 0,
+								},
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["丑陋的僵尸"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 3.24,
+								},
+								["火球术 (伤害/跳)"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 4.74,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["LastFightData"] = {
+					["DOTs"] = {
+						["火球术 (伤害/跳)"] = {
+							["Details"] = {
+								["小夜行蜘蛛"] = {
+									["count"] = 0,
+								},
+								["夜行蝙蝠"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 2,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["Damage"] = 68,
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 2,
+					},
+					["DOT_Time"] = 3,
+					["ElementTakenBlock"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Resist"] = {
+									["count"] = 0,
+								},
+								["Tick"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 5,
+						},
+					},
+					["FAttacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["ElementDone"] = {
+						["Fire"] = 68,
+					},
+					["DamagedWho"] = {
+						["小夜行蜘蛛"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 0,
+								},
+								["火球术 (伤害/跳)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["夜行蝙蝠"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 67,
+								},
+								["火球术 (伤害/跳)"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 68,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["WhoDamaged"] = {
+						["小夜行蜘蛛"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["夜行蝙蝠"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["CCBroken"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["HealedWho"] = {
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["PartialAbsorb"] = {
+						["肉搏"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["PartialResist"] = {
+						["肉搏"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+					},
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["小夜行蜘蛛"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 0,
+								},
+								["火球术 (伤害/跳)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["夜行蝙蝠"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 4.41,
+								},
+								["火球术 (伤害/跳)"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 5.91,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["ActiveTime"] = 5.91,
+					["EnergyGained"] = {
+					},
+					["EnergyGain"] = 0,
+					["Healing"] = 0,
+					["Dispelled"] = 0,
+					["RageGained"] = {
+					},
+					["Attacks"] = {
+						["火球术"] = {
+							["Details"] = {
+								["Resist"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 20,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 67,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 67,
+						},
+						["火球术 (伤害/跳)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 1,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 1,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 1,
+						},
+					},
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 5.91,
+					["TimeDamaging"] = {
+						["小夜行蜘蛛"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 0,
+								},
+								["火球术 (伤害/跳)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["夜行蝙蝠"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 4.41,
+								},
+								["火球术 (伤害/跳)"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 5.91,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["Fight1"] = {
+					["DOTs"] = {
+						["火球术 (伤害/跳)"] = {
+							["Details"] = {
+								["小夜行蜘蛛"] = {
+									["count"] = 0,
+								},
+								["夜行蝙蝠"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 3,
+						},
+					},
+					["ElementDoneResist"] = {
+					},
+					["Ressed"] = 0,
+					["DamageTaken"] = 2,
+					["RageGainedFrom"] = {
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 1,
+						},
+					},
+					["DeathCount"] = 0,
+					["HOT_Time"] = 0,
+					["Damage"] = 68,
+					["RunicPowerGain"] = 0,
+					["ElementTaken"] = {
+						["Melee"] = 2,
+					},
+					["DOT_Time"] = 3,
+					["ElementTakenBlock"] = {
+					},
+					["ElementDoneAbsorb"] = {
+					},
+					["TimeHeal"] = 0,
+					["RessedWho"] = {
+					},
+					["Dispels"] = 0,
+					["PartialBlock"] = {
+					},
+					["ElementHitsDone"] = {
+						["Fire"] = {
+							["Details"] = {
+								["Resist"] = {
+									["count"] = 0,
+								},
+								["Tick"] = {
+									["count"] = 1,
+								},
+								["Crit"] = {
+									["count"] = 0,
+								},
+								["Hit"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 5,
+						},
+					},
+					["FAttacks"] = {
+					},
+					["HealingTaken"] = 0,
+					["ElementDone"] = {
+						["Fire"] = 68,
+					},
+					["DamagedWho"] = {
+						["小夜行蜘蛛"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 0,
+								},
+								["火球术 (伤害/跳)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["夜行蝙蝠"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 67,
+								},
+								["火球术 (伤害/跳)"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 68,
+						},
+					},
+					["ManaGainedFrom"] = {
+					},
+					["RunicPowerGained"] = {
+					},
+					["WhoDamaged"] = {
+						["小夜行蜘蛛"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["夜行蝙蝠"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+					},
+					["EnergyGainedFrom"] = {
+					},
+					["CCBroken"] = {
+					},
+					["RunicPowerGainedFrom"] = {
+					},
+					["ElementDoneBlock"] = {
+					},
+					["TimeHealing"] = {
+					},
+					["OverHeals"] = {
+					},
+					["WhoHealed"] = {
+					},
+					["HealedWho"] = {
+					},
+					["CCBreak"] = 0,
+					["ElementTakenAbsorb"] = {
+					},
+					["PartialAbsorb"] = {
+						["肉搏"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 0,
+						},
+					},
+					["PartialResist"] = {
+						["肉搏"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 1,
+						},
+					},
+					["ManaGained"] = {
+					},
+					["FDamage"] = 0,
+					["Interrupts"] = 0,
+					["Overhealing"] = 0,
+					["TimeSpent"] = {
+						["小夜行蜘蛛"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 0,
+								},
+								["火球术 (伤害/跳)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["夜行蝙蝠"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 4.41,
+								},
+								["火球术 (伤害/跳)"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 5.91,
+						},
+					},
+					["WhoDispelled"] = {
+					},
+					["InterruptData"] = {
+					},
+					["ElementTakenResist"] = {
+					},
+					["Heals"] = {
+					},
+					["ActiveTime"] = 5.91,
+					["EnergyGained"] = {
+					},
+					["EnergyGain"] = 0,
+					["Healing"] = 0,
+					["Dispelled"] = 0,
+					["RageGained"] = {
+					},
+					["Attacks"] = {
+						["火球术"] = {
+							["Details"] = {
+								["Resist"] = {
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 0,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 20,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 67,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 67,
+						},
+						["火球术 (伤害/跳)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 1,
+									["min"] = 0,
+									["count"] = 1,
+									["amount"] = 1,
+								},
+							},
+							["count"] = 1,
+							["amount"] = 1,
+						},
+					},
+					["RageGain"] = 0,
+					["FDamagedWho"] = {
+					},
+					["TimeDamage"] = 5.91,
+					["TimeDamaging"] = {
+						["小夜行蜘蛛"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 0,
+								},
+								["火球术 (伤害/跳)"] = {
+									["count"] = 0,
+								},
+							},
+							["amount"] = 0,
+						},
+						["夜行蝙蝠"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 4.41,
+								},
+								["火球术 (伤害/跳)"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 5.91,
+						},
+					},
+					["ManaGain"] = 0,
+					["HOTs"] = {
+					},
+					["DispelledWho"] = {
+					},
+				},
+				["OverallData"] = {
+					["DOTs"] = {
+						["火球术 (伤害/跳)"] = {
+							["Details"] = {
+								["小夜行蜘蛛"] = {
+									["count"] = 33,
+								},
+								["食腐狼幼崽"] = {
+									["count"] = 15,
+								},
+								["丑陋的僵尸"] = {
+									["count"] = 3,
+								},
+								["夜行蝙蝠"] = {
+									["count"] = 6,
+								},
+							},
+							["amount"] = 57,
+						},
+					},
+					["TimeSpent"] = {
+						["断骨骷髅"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 4.09,
+								},
+							},
+							["amount"] = 4.09,
+						},
+						["老鼠"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["无脑的僵尸"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 2.88,
+								},
+							},
+							["amount"] = 2.88,
+						},
+						["小夜行蜘蛛"] = {
+							["Details"] = {
+								["火球术 (伤害/跳)"] = {
+									["count"] = 14.82,
+								},
+								["火球术"] = {
+									["count"] = 15.86,
+								},
+								["肉搏"] = {
+									["count"] = 5.23,
+								},
+							},
+							["amount"] = 35.91,
+						},
+						["食腐狼幼崽"] = {
+							["Details"] = {
+								["火球术 (伤害/跳)"] = {
+									["count"] = 7.5,
+								},
+								["火球术"] = {
+									["count"] = 5.19,
+								},
+								["肉搏"] = {
+									["count"] = 3.34,
+								},
+							},
+							["amount"] = 16.03,
+						},
+						["丑陋的僵尸"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 3.24,
+								},
+								["火球术 (伤害/跳)"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 4.74,
+						},
+						["夜行蝙蝠"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 16.21,
+								},
+								["火球术 (伤害/跳)"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 19.21,
+						},
+					},
+					["DamageTaken"] = 64,
+					["PartialResist"] = {
+						["弱效毒药 (伤害/跳)"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 4,
+						},
+						["肉搏"] = {
+							["Details"] = {
+								["未被抵抗"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 26,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 0,
+							["amount"] = 26,
+						},
+					},
+					["PartialAbsorb"] = {
+						["弱效毒药 (伤害/跳)"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 4,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 4,
+							["amount"] = 0,
+						},
+						["肉搏"] = {
+							["Details"] = {
+								["未被吸收"] = {
+									["max"] = 0,
+									["min"] = 0,
+									["count"] = 26,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 26,
+							["amount"] = 0,
+						},
+					},
+					["ActiveTime"] = 84.36,
+					["ElementTaken"] = {
+						["Melee"] = 60,
+						["Nature"] = 4,
+					},
+					["DOT_Time"] = 57,
+					["Damage"] = 734,
+					["ElementDone"] = {
+						["Melee"] = 25,
+						["Fire"] = 709,
+					},
+					["ElementHitsTaken"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Hit"] = {
+									["count"] = 26,
+								},
+							},
+							["amount"] = 26,
+						},
+						["Nature"] = {
+							["Details"] = {
+								["Tick"] = {
+									["count"] = 4,
+								},
+							},
+							["amount"] = 4,
+						},
+					},
+					["DamagedWho"] = {
+						["断骨骷髅"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 68,
+								},
+							},
+							["amount"] = 68,
+						},
+						["老鼠"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 20,
+								},
+							},
+							["amount"] = 20,
+						},
+						["无脑的僵尸"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 37,
+								},
+							},
+							["amount"] = 37,
+						},
+						["小夜行蜘蛛"] = {
+							["Details"] = {
+								["火球术 (伤害/跳)"] = {
+									["count"] = 11,
+								},
+								["火球术"] = {
+									["count"] = 200,
+								},
+								["肉搏"] = {
+									["count"] = 8,
+								},
+							},
+							["amount"] = 219,
+						},
+						["食腐狼幼崽"] = {
+							["Details"] = {
+								["火球术 (伤害/跳)"] = {
+									["count"] = 5,
+								},
+								["火球术"] = {
+									["count"] = 68,
+								},
+								["肉搏"] = {
+									["count"] = 17,
+								},
+							},
+							["amount"] = 90,
+						},
+						["丑陋的僵尸"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 59,
+								},
+								["火球术 (伤害/跳)"] = {
+									["count"] = 1,
+								},
+							},
+							["amount"] = 60,
+						},
+						["夜行蝙蝠"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 238,
+								},
+								["火球术 (伤害/跳)"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 240,
+						},
+					},
+					["TimeDamage"] = 84.36,
+					["TimeDamaging"] = {
+						["断骨骷髅"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 4.09,
+								},
+							},
+							["amount"] = 4.09,
+						},
+						["老鼠"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 1.5,
+						},
+						["无脑的僵尸"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 2.88,
+								},
+							},
+							["amount"] = 2.88,
+						},
+						["小夜行蜘蛛"] = {
+							["Details"] = {
+								["火球术 (伤害/跳)"] = {
+									["count"] = 14.82,
+								},
+								["火球术"] = {
+									["count"] = 15.86,
+								},
+								["肉搏"] = {
+									["count"] = 5.23,
+								},
+							},
+							["amount"] = 35.91,
+						},
+						["食腐狼幼崽"] = {
+							["Details"] = {
+								["火球术 (伤害/跳)"] = {
+									["count"] = 7.5,
+								},
+								["火球术"] = {
+									["count"] = 5.19,
+								},
+								["肉搏"] = {
+									["count"] = 3.34,
+								},
+							},
+							["amount"] = 16.03,
+						},
+						["丑陋的僵尸"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 3.24,
+								},
+								["火球术 (伤害/跳)"] = {
+									["count"] = 1.5,
+								},
+							},
+							["amount"] = 4.74,
+						},
+						["夜行蝙蝠"] = {
+							["Details"] = {
+								["火球术"] = {
+									["count"] = 16.21,
+								},
+								["火球术 (伤害/跳)"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 19.21,
+						},
+					},
+					["Attacks"] = {
+						["火球术 (伤害/跳)"] = {
+							["Details"] = {
+								["Tick"] = {
+									["max"] = 1,
+									["min"] = 1,
+									["count"] = 19,
+									["amount"] = 19,
+								},
+							},
+							["count"] = 19,
+							["amount"] = 19,
+						},
+						["火球术"] = {
+							["Details"] = {
+								["Resist"] = {
+									["count"] = 4,
+									["amount"] = 0,
+								},
+								["Crit"] = {
+									["max"] = 32,
+									["min"] = 30,
+									["count"] = 2,
+									["amount"] = 62,
+								},
+								["Hit"] = {
+									["max"] = 23,
+									["min"] = 14,
+									["count"] = 35,
+									["amount"] = 628,
+								},
+							},
+							["count"] = 41,
+							["amount"] = 690,
+						},
+						["肉搏"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["max"] = 5,
+									["min"] = 1,
+									["count"] = 3,
+									["amount"] = 8,
+								},
+								["Parry"] = {
+									["count"] = 1,
+									["amount"] = 0,
+								},
+								["Hit"] = {
+									["max"] = 6,
+									["min"] = 5,
+									["count"] = 3,
+									["amount"] = 17,
+								},
+							},
+							["count"] = 7,
+							["amount"] = 25,
+						},
+					},
+					["WhoDamaged"] = {
+						["小夜行蜘蛛"] = {
+							["Details"] = {
+								["弱效毒药 (伤害/跳)"] = {
+									["count"] = 4,
+								},
+								["肉搏"] = {
+									["count"] = 43,
+								},
+							},
+							["amount"] = 47,
+						},
+						["食腐狼幼崽"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 8,
+								},
+							},
+							["amount"] = 8,
+						},
+						["丑陋的僵尸"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 2,
+								},
+							},
+							["amount"] = 2,
+						},
+						["夜行蝙蝠"] = {
+							["Details"] = {
+								["肉搏"] = {
+									["count"] = 7,
+								},
+							},
+							["amount"] = 7,
+						},
+					},
+					["ElementHitsDone"] = {
+						["Melee"] = {
+							["Details"] = {
+								["Glancing"] = {
+									["count"] = 3,
+								},
+								["Parry"] = {
+									["count"] = 1,
+								},
+								["Hit"] = {
+									["count"] = 3,
+								},
+							},
+							["amount"] = 7,
+						},
+						["Fire"] = {
+							["Details"] = {
+								["Resist"] = {
+									["count"] = 4,
+								},
+								["Tick"] = {
+									["count"] = 19,
+								},
+								["Crit"] = {
+									["count"] = 2,
+								},
+								["Hit"] = {
+									["count"] = 35,
+								},
+							},
+							["amount"] = 60,
+						},
+					},
+				},
+			},
+			["LastDamageTaken"] = 2,
+			["UnitLockout"] = 69621.609,
+			["LastAbility"] = 340866.824,
+		},
+	},
+	["FightNum"] = 11,
+	["CombatTimes"] = {
+		{
+			69667.608, -- [1]
+			69691.608, -- [2]
+			"13:06:02", -- [3]
+			"13:06:26", -- [4]
+			"小夜行蜘蛛", -- [5]
+		}, -- [1]
+		{
+			241144.992, -- [1]
+			241162.992, -- [2]
+			"12:43:52", -- [3]
+			"12:44:10", -- [4]
+			"小夜行蜘蛛", -- [5]
+		}, -- [2]
+		{
+			314695.417, -- [1]
+			314702.417, -- [2]
+			"09:09:43", -- [3]
+			"09:09:49", -- [4]
+			"夜行蝙蝠", -- [5]
+		}, -- [3]
+		{
+			314708.417, -- [1]
+			314717.419, -- [2]
+			"09:09:55", -- [3]
+			"09:10:04", -- [4]
+			"食腐狼幼崽", -- [5]
+		}, -- [4]
+		{
+			314725.419, -- [1]
+			314736.419, -- [2]
+			"09:10:13", -- [3]
+			"09:10:23", -- [4]
+			"小夜行蜘蛛", -- [5]
+		}, -- [5]
+		{
+			315098.842, -- [1]
+			315102.842, -- [2]
+			"09:16:26", -- [3]
+			"09:16:29", -- [4]
+			"夜行蝙蝠", -- [5]
+		}, -- [6]
+		{
+			315131.842, -- [1]
+			315136.842, -- [2]
+			"09:16:59", -- [3]
+			"09:17:03", -- [4]
+			"夜行蝙蝠", -- [5]
+		}, -- [7]
+		{
+			315212.842, -- [1]
+			315218.842, -- [2]
+			"09:18:20", -- [3]
+			"09:18:25", -- [4]
+			"丑陋的僵尸", -- [5]
+		}, -- [8]
+		{
+			315235.835, -- [1]
+			315245.835, -- [2]
+			"09:18:43", -- [3]
+			"09:18:52", -- [4]
+			"食腐狼幼崽", -- [5]
+		}, -- [9]
+		{
+			315261.226, -- [1]
+			315266.226, -- [2]
+			"09:19:08", -- [3]
+			"09:19:13", -- [4]
+			"断骨骷髅", -- [5]
+		}, -- [10]
+		{
+			319374.548, -- [1]
+			319382.548, -- [2]
+			"10:27:42", -- [3]
+			"10:27:49", -- [4]
+			"夜行蝙蝠", -- [5]
+		}, -- [11]
+	},
+	["FoughtWho"] = {
+		"夜行蝙蝠 10:27:42-10:27:49", -- [1]
+		"断骨骷髅 09:19:08-09:19:13", -- [2]
+		"食腐狼幼崽 09:18:43-09:18:52", -- [3]
+		"丑陋的僵尸 09:18:20-09:18:25", -- [4]
+		"夜行蝙蝠 09:16:59-09:17:03", -- [5]
+	},
+}

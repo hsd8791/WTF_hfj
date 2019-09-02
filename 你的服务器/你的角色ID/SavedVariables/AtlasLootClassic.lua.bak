@@ -1,0 +1,7 @@
+
+AtlasLootClassicCharDB = {
+	["__addonrevision"] = 4773,
+	["minimap"] = {
+		["minimapPos"] = 180.000000515819,
+	},
+}

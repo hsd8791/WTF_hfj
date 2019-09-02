@@ -1,0 +1,8 @@
+VER 3 0000000000000001 "姓名版 距离" "INV_MISC_QUESTIONMARK"
+/run setcvar("nameplatemaxDistance",60)
+END
+VER 3 0000000000000002 "跟随" "INV_MISC_QUESTIONMARK"
+/tar 麦丁妍
+/跟随
+/e 在跟随%t
+END

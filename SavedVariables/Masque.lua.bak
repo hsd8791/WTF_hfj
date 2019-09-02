@@ -1,0 +1,40 @@
+
+MasqueDB = {
+	["profileKeys"] = {
+		["烟亦舞 - 辛迪加"] = "Default",
+		["Ramipasi - 匕首岭"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["Groups"] = {
+				["ElvUI"] = {
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["ElvUI_Buffs"] = {
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["ElvUI_ActionBars"] = {
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["ElvUI_Stance Bar"] = {
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["ElvUI_Debuffs"] = {
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["ElvUI_Pet Bar"] = {
+					["Inherit"] = false,
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+				["Masque"] = {
+					["SkinID"] = "|cfff960d9KlixUI|r",
+				},
+			},
+		},
+	},
+}
