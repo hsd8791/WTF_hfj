@@ -1,6 +1,17 @@
 
 BlizzMoveDB = {
 	["QuestLogFrame"] = {
+		["default"] = {
+			["relativeTo"] = "UIParent",
+			["point"] = "TOPLEFT",
+			["relativePoint"] = "TOPLEFT",
+			["yOfs"] = -104,
+			["xOfs"] = 0,
+		},
+		["relativePoint"] = "TOPLEFT",
+		["yOfs"] = -96.892578125,
+		["xOfs"] = 0,
+		["point"] = "TOPLEFT",
 	},
 	["TradeSkillFrame"] = {
 		["default"] = {
@@ -22,7 +33,20 @@ BlizzMoveDB = {
 	["AuctionFrame"] = {
 		["save"] = true,
 	},
+	["CommunitiesFrame"] = {
+	},
 	["GameMenuFrame"] = {
+		["default"] = {
+			["relativeTo"] = "UIParent",
+			["point"] = "CENTER",
+			["relativePoint"] = "CENTER",
+			["yOfs"] = 0,
+			["xOfs"] = 0,
+		},
+		["relativePoint"] = "CENTER",
+		["yOfs"] = 51.5287208557129,
+		["xOfs"] = 54.193962097168,
+		["point"] = "CENTER",
 	},
 	["CharacterFrame"] = {
 	},
@@ -35,7 +59,7 @@ BlizzMoveDB = {
 	["AchievementFrame"] = {
 		["save"] = true,
 	},
-	["InterfaceOptionsFrame"] = {
+	["HelpFrame"] = {
 	},
 	["KeyBindingFrame"] = {
 	},
@@ -48,8 +72,19 @@ BlizzMoveDB = {
 	["WorldMapFrame"] = {
 	},
 	["GossipFrame"] = {
+		["default"] = {
+			["relativeTo"] = "UIParent",
+			["point"] = "TOPLEFT",
+			["relativePoint"] = "TOPLEFT",
+			["yOfs"] = -104,
+			["xOfs"] = 0,
+		},
+		["relativePoint"] = "BOTTOMRIGHT",
+		["yOfs"] = 86.745101928711,
+		["xOfs"] = -115.295562744141,
+		["point"] = "BOTTOMRIGHT",
 	},
-	["LootFrame"] = {
+	["BankFrame"] = {
 	},
 	["GuildBankFrame"] = {
 		["save"] = true,
@@ -70,15 +105,26 @@ BlizzMoveDB = {
 	["VideoOptionsFrame"] = {
 	},
 	["version"] = "201109013",
-	["BankFrame"] = {
+	["LootFrame"] = {
 	},
 	["QuestFrame"] = {
+		["default"] = {
+			["relativeTo"] = "UIParent",
+			["point"] = "TOPLEFT",
+			["relativePoint"] = "TOPLEFT",
+			["yOfs"] = -104,
+			["xOfs"] = 0,
+		},
+		["relativePoint"] = "RIGHT",
+		["yOfs"] = -96.5816421508789,
+		["xOfs"] = -316.968170166016,
+		["point"] = "RIGHT",
 	},
 	["TradeFrame"] = {
 	},
 	["CalendarFrame"] = {
 		["save"] = true,
 	},
-	["HelpFrame"] = {
+	["InterfaceOptionsFrame"] = {
 	},
 }

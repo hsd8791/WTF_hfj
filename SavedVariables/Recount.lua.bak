@@ -2,9 +2,11 @@
 RecountDB = {
 	["profileKeys"] = {
 		["Minuitsun - 维希度斯"] = "Minuitsun - 维希度斯",
+		["Ramipasi - 匕首岭"] = "Ramipasi - 匕首岭",
 	},
 	["profiles"] = {
 		["Minuitsun - 维希度斯"] = {
+			["MainWindowVis"] = false,
 			["MainWindow"] = {
 				["Position"] = {
 					["y"] = -435.00080871582,
@@ -16,7 +18,6 @@ RecountDB = {
 					["Percent"] = false,
 				},
 			},
-			["MainWindowHeight"] = 168.000061035156,
 			["Colors"] = {
 				["Bar"] = {
 					["Bar Text"] = {
@@ -28,9 +29,36 @@ RecountDB = {
 				},
 			},
 			["Locked"] = true,
+			["MainWindowHeight"] = 168.000061035156,
 			["BarTexture"] = "ElvUI Blank",
-			["CurDataSet"] = "OverallData",
 			["MainWindowWidth"] = 236.000152587891,
+			["CurDataSet"] = "OverallData",
+		},
+		["Ramipasi - 匕首岭"] = {
+			["MainWindow"] = {
+				["Position"] = {
+					["h"] = 199.999984741211,
+					["w"] = 140.000015258789,
+				},
+			},
+			["Colors"] = {
+				["Bar"] = {
+					["Bar Text"] = {
+						["a"] = 1,
+					},
+					["Total Bar"] = {
+						["a"] = 1,
+					},
+				},
+			},
+			["minimap"] = {
+				["minimapPos"] = 220,
+				["radius"] = 80,
+				["hide"] = false,
+			},
+			["MainWindowVis"] = false,
+			["LastInstanceName"] = "暴风城监狱",
+			["CurDataSet"] = "OverallData",
 		},
 	},
 }

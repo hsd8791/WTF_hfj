@@ -1,8 +1,30 @@
 
 BlizzMoveDB = {
 	["QuestLogFrame"] = {
+		["default"] = {
+			["relativeTo"] = "UIParent",
+			["point"] = "TOPLEFT",
+			["relativePoint"] = "TOPLEFT",
+			["yOfs"] = -104,
+			["xOfs"] = 0,
+		},
+		["relativePoint"] = "TOPLEFT",
+		["yOfs"] = -96.892578125,
+		["xOfs"] = 0,
+		["point"] = "TOPLEFT",
 	},
 	["TradeSkillFrame"] = {
+		["default"] = {
+			["relativeTo"] = "UIParent",
+			["point"] = "TOPLEFT",
+			["relativePoint"] = "TOPLEFT",
+			["yOfs"] = -104,
+			["xOfs"] = 0,
+		},
+		["relativePoint"] = "CENTER",
+		["yOfs"] = 36.6822395324707,
+		["xOfs"] = 163.570541381836,
+		["point"] = "CENTER",
 	},
 	["RaidParentFrame"] = {
 	},
@@ -11,7 +33,20 @@ BlizzMoveDB = {
 	["AuctionFrame"] = {
 		["save"] = true,
 	},
+	["CommunitiesFrame"] = {
+	},
 	["GameMenuFrame"] = {
+		["default"] = {
+			["relativeTo"] = "UIParent",
+			["point"] = "CENTER",
+			["relativePoint"] = "CENTER",
+			["yOfs"] = 0,
+			["xOfs"] = 0,
+		},
+		["relativePoint"] = "CENTER",
+		["yOfs"] = 51.5287208557129,
+		["xOfs"] = 54.193962097168,
+		["point"] = "CENTER",
 	},
 	["CharacterFrame"] = {
 	},
@@ -24,7 +59,7 @@ BlizzMoveDB = {
 	["AchievementFrame"] = {
 		["save"] = true,
 	},
-	["HelpFrame"] = {
+	["InterfaceOptionsFrame"] = {
 	},
 	["KeyBindingFrame"] = {
 	},
@@ -37,26 +72,59 @@ BlizzMoveDB = {
 	["WorldMapFrame"] = {
 	},
 	["GossipFrame"] = {
-	},
-	["BankFrame"] = {
+		["default"] = {
+			["relativeTo"] = "UIParent",
+			["point"] = "TOPLEFT",
+			["relativePoint"] = "TOPLEFT",
+			["yOfs"] = -104,
+			["xOfs"] = 0,
+		},
+		["relativePoint"] = "BOTTOMRIGHT",
+		["yOfs"] = 86.745101928711,
+		["xOfs"] = -115.295562744141,
+		["point"] = "BOTTOMRIGHT",
 	},
 	["GuildBankFrame"] = {
 		["save"] = true,
 	},
+	["LootFrame"] = {
+	},
 	["SpellBookFrame"] = {
+		["default"] = {
+			["relativeTo"] = "UIParent",
+			["point"] = "TOPLEFT",
+			["relativePoint"] = "TOPLEFT",
+			["yOfs"] = -104,
+			["xOfs"] = 0,
+		},
+		["relativePoint"] = "BOTTOMRIGHT",
+		["yOfs"] = 12.1172103881836,
+		["xOfs"] = -165.047729492188,
+		["point"] = "BOTTOMRIGHT",
 	},
 	["VideoOptionsFrame"] = {
 	},
 	["version"] = "201109013",
-	["LootFrame"] = {
+	["BankFrame"] = {
 	},
 	["QuestFrame"] = {
+		["default"] = {
+			["relativeTo"] = "UIParent",
+			["point"] = "TOPLEFT",
+			["relativePoint"] = "TOPLEFT",
+			["yOfs"] = -104,
+			["xOfs"] = 0,
+		},
+		["relativePoint"] = "RIGHT",
+		["yOfs"] = -96.5816421508789,
+		["xOfs"] = -316.968170166016,
+		["point"] = "RIGHT",
 	},
 	["TradeFrame"] = {
 	},
 	["CalendarFrame"] = {
 		["save"] = true,
 	},
-	["InterfaceOptionsFrame"] = {
+	["HelpFrame"] = {
 	},
 }

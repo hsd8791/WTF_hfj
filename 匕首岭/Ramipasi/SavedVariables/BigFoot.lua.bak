@@ -7,9 +7,9 @@ BF_Frames_Config = {
 		["offY"] = -18,
 		["refPoint"] = "BOTTOMRIGHT",
 	},
+	["BCanMove"] = true,
 	["CoolLine"] = {
 	},
-	["BCanMove"] = true,
 }
 BigFoot_Character = {
 	["Region"] = "cn0",
@@ -18,7 +18,7 @@ BigFoot_Character = {
 	["Name"] = "Ramipasi",
 	["Faction"] = 0,
 	["Class"] = "战士",
-	["Level"] = 17,
+	["Level"] = 25,
 	["VCode"] = "3833699399295308300222411976492059268552",
 	["Realm"] = "匕首岭",
 }

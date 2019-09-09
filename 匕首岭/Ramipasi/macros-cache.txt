@@ -3,14 +3,11 @@ VER 3 0000000001000002 "c" "INV_MISC_QUESTIONMARK"
 /cast [stance:1]压制;复仇
 END
 VER 3 0000000001000004 "双手" "INV_MISC_QUESTIONMARK"
-/equip 破甲之斧
+/equip 重型食人魔战斧
 END
 VER 3 0000000001000003 "盾" "INV_MISC_QUESTIONMARK"
-/equip 精兵圆盾
-/equip 黑水弯刀
-END
-VER 3 0000000001000005 "盾取消" "INV_MISC_QUESTIONMARK"
-/cancelaura 真言术：盾
+/equip 耐力之锯齿之星
+/equip 极光圆盾
 END
 VER 3 0000000001000001 "谢谢" "INV_MISC_QUESTIONMARK"
 /s 谢谢

@@ -1,3 +1,14 @@
+VER 3 0000000000000003 "all" "INV_MISC_QUESTIONMARK"
+/run SetCVar("alwaysCompareItems", "1")
+/console cameraDistanceMaxZoomFactor 4
+/console SET targetNearestDistance "50"
+/console SET targetNearestDistanceRadius "50"
+/console SET chatClassColorOverride "0"
+/console ShowClassColorInFriendlyNameplate 1
+END
 VER 3 0000000000000001 "姓名版 距离" "INV_MISC_QUESTIONMARK"
 /run setcvar("nameplatemaxDistance",60)
+END
+VER 3 0000000000000002 "角色 职业" "INV_MISC_QUESTIONMARK"
+/run SetCVar("alwaysCompareItems", "1")
 END

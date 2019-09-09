@@ -5,11 +5,11 @@ Omen3DB = {
 	},
 	["profiles"] = {
 		["Ramipasi - 匕首岭"] = {
-			["PositionW"] = 199.999954223633,
-			["Shown"] = true,
+			["PositionW"] = 199.999984741211,
+			["Shown"] = false,
 			["PositionH"] = 81.9999847412109,
-			["PositionY"] = 81.9999847412109,
-			["PositionX"] = 1505.7783203125,
+			["PositionY"] = 126.365608215332,
+			["PositionX"] = 1612.38952636719,
 		},
 	},
 }

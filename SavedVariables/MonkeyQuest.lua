@@ -2,10 +2,10 @@
 MonkeyQuestConfig = {
 	["水晶之牙|烟亦舞"] = {
 		["m_aQuestList"] = {
-			["寒脊山谷 - true"] = {
+			["矮人的交易 - false"] = {
 				["m_bChecked"] = true,
 			},
-			["矮人的交易 - false"] = {
+			["寒脊山谷 - true"] = {
 				["m_bChecked"] = true,
 			},
 		},
@@ -16,17 +16,17 @@ MonkeyQuestConfig = {
 	},
 	["水晶之牙|哪里都排队"] = {
 		["m_aQuestList"] = {
-			["矮人的交易 - false"] = {
-				["m_bChecked"] = true,
-			},
 			["寒脊山谷 - true"] = {
 				["m_bChecked"] = false,
+			},
+			["矮人的交易 - false"] = {
+				["m_bChecked"] = true,
 			},
 		},
 	},
 	["匕首岭|Ramipasi"] = {
 		["m_aQuestList"] = {
-			["旱季 - false"] = {
+			["红色皮质面罩 - false"] = {
 				["m_bChecked"] = true,
 			},
 			["回复弗纳 - false"] = {
@@ -38,13 +38,19 @@ MonkeyQuestConfig = {
 			["战士 - true"] = {
 				["m_bChecked"] = true,
 			},
-			["捕捉矿道老鼠 - false"] = {
+			["黑暗深渊 - true"] = {
 				["m_bChecked"] = true,
 			},
-			["老马布兰契 - false"] = {
+			["寻找塞尔瑞德 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["往返瑞斯班洞穴 - false"] = {
 				["m_bChecked"] = true,
 			},
 			["雷矛的包裹 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["监视 - false"] = {
 				["m_bChecked"] = true,
 			},
 			["送往西部荒野的信 - false"] = {
@@ -53,31 +59,37 @@ MonkeyQuestConfig = {
 			["免费的午餐 - false"] = {
 				["m_bChecked"] = true,
 			},
-			["铁炉堡 - true"] = {
-				["m_bChecked"] = true,
-			},
-			["收集记忆 - false"] = {
-				["m_bChecked"] = true,
-			},
-			["寻找宾格斯 - false"] = {
+			["悬赏：黑石氏族 - false"] = {
 				["m_bChecked"] = true,
 			},
 			["红色丝质面罩 - false"] = {
 				["m_bChecked"] = true,
 			},
+			["伸张正义 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["收集记忆 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["火岩矿石 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["先发制人 - false"] = {
+				["m_bChecked"] = true,
+			},
 			["赤脊山 - true"] = {
 				["m_bChecked"] = true,
 			},
-			["豺狼人的入侵 - false"] = {
+			["所罗门的律法 - false"] = {
 				["m_bChecked"] = true,
 			},
-			["我的兄弟…… - false"] = {
+			["佐拉姆海岸 - false"] = {
 				["m_bChecked"] = true,
 			},
-			["艾鲁拉的阴影 - false"] = {
+			["止水湖上的桥 - false"] = {
 				["m_bChecked"] = true,
 			},
-			["马掌 - false"] = {
+			["宾格斯的补给品 - false"] = {
 				["m_bChecked"] = true,
 			},
 			["击败巴特莱比 - false"] = {
@@ -86,7 +98,199 @@ MonkeyQuestConfig = {
 			["治安官哈迦德 - false"] = {
 				["m_bChecked"] = true,
 			},
+			["捕捉矿道老鼠 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["矿道地铁 - true"] = {
+				["m_bChecked"] = true,
+			},
+			["暮光之锤的末日 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["石爪峰之旅 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["艾尔默的任务 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["灾难之后 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["诺莫瑞根 - true"] = {
+				["m_bChecked"] = true,
+			},
+			["西部荒野的豺狼人 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["黑石氏族的威胁 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["送往暴风城的信 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["狗头人的耳朵 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["夺回焦炭谷 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["卡尔·雷矛的订单 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["保卫边境 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["小鳄鱼皮 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["月神之泪 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["元素护腕 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["猪肝馅饼 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["暴风城 - true"] = {
+				["m_bChecked"] = true,
+			},
+			["湿地 - true"] = {
+				["m_bChecked"] = true,
+			},
+			["星尘废墟 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["法师的眼线 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["肮脏的爪子 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["石爪山的双足飞龙 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["寻访草药师 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["迪菲亚兄弟会 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["我的兄弟，尼普希 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["迪恩·石轮的梦想 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["西部荒野人民军 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["鱼人偷猎者 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["审时度势 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["地底突袭 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["寻找宾格斯 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["超级收割机6000 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["潜入城堡 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["旱季 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["搜寻软泥怪 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["托姆斯·深炉 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["拯救尖端机器人！ - false"] = {
+				["m_bChecked"] = true,
+			},
+			["群山中的嚎叫 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["好奇的访客 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["坠星湖 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["老同事 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["通缉：加塞尔佐格 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["马伦的卷轴 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["老马布兰契 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["洛克莫丹 - true"] = {
+				["m_bChecked"] = true,
+			},
+			["送往夜色镇的信 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["犹鲁斯·麦酒 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["往日的阴影 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["石爪山脉 - true"] = {
+				["m_bChecked"] = true,
+			},
+			["镇压暴动 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["铁炉堡 - true"] = {
+				["m_bChecked"] = true,
+			},
+			["马掌 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["海中的鱼人 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["新的指示 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["守卫石爪山 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["赤脊山炖肉 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["工匠大师欧沃斯巴克 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["艾鲁拉的阴影 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["老朋友 - false"] = {
+				["m_bChecked"] = true,
+			},
 			["清理海岸 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["不速之客 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["豺狼人的乱吠 - false"] = {
+				["m_bChecked"] = true,
+			},
+			["巴斯兰的头发 - false"] = {
 				["m_bChecked"] = true,
 			},
 			["西部荒野 - true"] = {
@@ -95,13 +299,13 @@ MonkeyQuestConfig = {
 			["玉石矿洞 - false"] = {
 				["m_bChecked"] = true,
 			},
-			["我的兄弟，尼普希 - false"] = {
+			["西部荒野中的恶魔 - false"] = {
 				["m_bChecked"] = true,
 			},
-			["猪肝馅饼 - false"] = {
+			["灰谷 - true"] = {
 				["m_bChecked"] = true,
 			},
-			["群山中的嚎叫 - false"] = {
+			["黑暗深渊中的恶魔 - false"] = {
 				["m_bChecked"] = true,
 			},
 			["雷霆啤酒 - false"] = {
@@ -110,55 +314,55 @@ MonkeyQuestConfig = {
 			["清理荒野 - false"] = {
 				["m_bChecked"] = true,
 			},
-			["所罗门的律法 - false"] = {
+			["绿色守卫者 - false"] = {
 				["m_bChecked"] = true,
 			},
-			["送往暴风城的信 - false"] = {
+			["卖鱼 - false"] = {
 				["m_bChecked"] = true,
 			},
-			["止水湖上的桥 - false"] = {
+			["失职+药剂=快乐 - false"] = {
 				["m_bChecked"] = true,
 			},
 			["希拉里的项链 - false"] = {
 				["m_bChecked"] = true,
 			},
-			["红色皮质面罩 - false"] = {
+			["完鳞归玛伦 - false"] = {
 				["m_bChecked"] = true,
 			},
-			["保卫边境 - false"] = {
+			["莱恩的净化 - false"] = {
 				["m_bChecked"] = true,
 			},
 			["艾尔文森林 - true"] = {
 				["m_bChecked"] = true,
 			},
-			["豺狼人的乱吠 - false"] = {
+			["丹莫罗 - true"] = {
 				["m_bChecked"] = true,
 			},
-			["赤脊山炖肉 - false"] = {
+			["侏儒学者 - false"] = {
 				["m_bChecked"] = true,
 			},
 			["水仙诉衷情 - false"] = {
 				["m_bChecked"] = true,
 			},
-			["暴风城 - true"] = {
+			["豺狼人的入侵 - false"] = {
 				["m_bChecked"] = true,
 			},
 			["巴特莱比的酒杯 - false"] = {
 				["m_bChecked"] = true,
 			},
-			["西部荒野的豺狼人 - false"] = {
+			["监狱 - true"] = {
 				["m_bChecked"] = true,
 			},
-			["艾尔默的任务 - false"] = {
+			["罪与罚 - false"] = {
 				["m_bChecked"] = true,
 			},
-			["矿道地铁 - true"] = {
+			["解除威胁 - false"] = {
 				["m_bChecked"] = true,
 			},
 			["通缉：范高雷中尉 - false"] = {
 				["m_bChecked"] = true,
 			},
-			["迪菲亚兄弟会 - false"] = {
+			["奥雷迪尔的药剂 - false"] = {
 				["m_bChecked"] = true,
 			},
 			["死亡矿井 - true"] = {
@@ -170,25 +374,25 @@ MonkeyQuestConfig = {
 			["长明的灯塔 - false"] = {
 				["m_bChecked"] = true,
 			},
-			["西部荒野人民军 - false"] = {
+			["卢泽尔 - false"] = {
 				["m_bChecked"] = true,
 			},
 			["丢失的工具 - false"] = {
 				["m_bChecked"] = true,
 			},
-			["审时度势 - false"] = {
+			["我的兄弟…… - false"] = {
 				["m_bChecked"] = true,
 			},
-			["地底突袭 - false"] = {
+			["巴吉尔·特雷德 - false"] = {
 				["m_bChecked"] = true,
 			},
 			["童年的记忆 - false"] = {
 				["m_bChecked"] = true,
 			},
-			["卖鱼 - false"] = {
+			["鲜血的颜色 - false"] = {
 				["m_bChecked"] = true,
 			},
-			["寻访草药师 - false"] = {
+			["监狱暴动 - false"] = {
 				["m_bChecked"] = true,
 			},
 		},
@@ -217,33 +421,33 @@ MonkeyQuestConfig = {
 		["m_iHighlightAlpha"] = 1,
 		["m_bShowQuestLevel"] = true,
 		["m_bShowDailyNumQuests"] = false,
-		["m_iFrameBottom"] = 764.000427246094,
-		["m_bHideTitleButtons"] = false,
+		["m_iFrameBottom"] = 764.000244140625,
+		["m_bHideCompletedQuests"] = false,
 		["m_iFrameLeft"] = 1476.00207519531,
 		["m_bColourDoneOrFailed"] = false,
 		["m_bLocked"] = false,
 		["m_bNoBorder"] = false,
 		["m_bNoHeaders"] = false,
-		["m_iQuestPadding"] = 0,
+		["m_iAlpha"] = 0.5,
 		["m_strOverviewColour"] = "|cFF7F7F7F",
-		["m_bShowTooltipObjectives"] = true,
+		["m_bShowNumQuests"] = true,
 		["m_bColourSubObjectivesByProgress"] = true,
-		["m_iFrameWidth"] = 255,
+		["m_strMidObjectiveColour"] = "|cFFFFFF00",
 		["m_iFontHeight"] = 12,
 		["m_strQuestTitleColour"] = "|cFFFFFFFF",
 		["m_bWorkComplete"] = true,
 		["m_bHideQuestsEnabled"] = true,
-		["m_strMidObjectiveColour"] = "|cFFFFFF00",
+		["m_iFrameWidth"] = 255,
 		["m_bCrashBorder"] = false,
 		["m_strHeaderOpenColour"] = "|cFFBFBFFF",
 		["m_iFrameTop"] = 803.000244140625,
 		["m_bObjectives"] = true,
 		["m_bHideHeader"] = false,
-		["m_bShowNumQuests"] = true,
-		["m_iAlpha"] = 0.5,
+		["m_bShowTooltipObjectives"] = true,
+		["m_iQuestPadding"] = 0,
 		["m_bShowQuestTextTooltip"] = false,
 		["m_bHideTitle"] = false,
-		["m_bHideCompletedQuests"] = false,
+		["m_bHideTitleButtons"] = false,
 		["m_bGrowUp"] = false,
 	},
 }

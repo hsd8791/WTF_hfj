@@ -3,6 +3,81 @@ Bartender4DB = {
 	["namespaces"] = {
 		["ActionBars"] = {
 			["profiles"] = {
+				["bf_infobox"] = {
+					["actionbars"] = {
+						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = 176.000061035156,
+								["x"] = -336.267578125,
+								["point"] = "BOTTOM",
+							},
+							["padding"] = 6,
+						}, -- [1]
+						{
+							["enabled"] = false,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -205.000022888184,
+								["x"] = -231.500061035156,
+								["point"] = "CENTER",
+							},
+						}, -- [2]
+						{
+							["rows"] = 5,
+							["version"] = 3,
+							["position"] = {
+								["y"] = 177,
+								["x"] = 165.530456542969,
+								["point"] = "BOTTOM",
+							},
+							["padding"] = 8,
+						}, -- [3]
+						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = 44.0000038146973,
+								["x"] = -336.267578125,
+								["point"] = "BOTTOM",
+							},
+							["padding"] = 6,
+						}, -- [4]
+						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = 88.0000076293945,
+								["x"] = -336.267669677734,
+								["point"] = "BOTTOM",
+							},
+							["padding"] = 6,
+						}, -- [5]
+						{
+							["version"] = 3,
+							["position"] = {
+								["y"] = 132.000045776367,
+								["x"] = -336.267669677734,
+								["point"] = "BOTTOM",
+							},
+							["padding"] = 6,
+						}, -- [6]
+						{
+						}, -- [7]
+						{
+						}, -- [8]
+						nil, -- [9]
+						{
+							["rows"] = 3,
+							["enabled"] = true,
+							["alpha"] = 0.55,
+							["version"] = 3,
+							["position"] = {
+								["y"] = -5.55458068847656,
+								["x"] = 140.308288574219,
+								["point"] = "CENTER",
+							},
+						}, -- [10]
+					},
+				},
 				["Ramipasi - 匕首岭"] = {
 					["actionbars"] = {
 						{
@@ -24,8 +99,8 @@ Bartender4DB = {
 							},
 						}, -- [2]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -34,8 +109,8 @@ Bartender4DB = {
 							},
 						}, -- [3]
 						{
-							["padding"] = 5,
 							["rows"] = 12,
+							["padding"] = 5,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 610,
@@ -69,85 +144,20 @@ Bartender4DB = {
 						},
 					},
 				},
-				["bf_infobox"] = {
-					["actionbars"] = {
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = 41.75,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-							["padding"] = 6,
-						}, -- [1]
-						{
-							["enabled"] = false,
-							["version"] = 3,
-							["position"] = {
-								["y"] = -205.000022888184,
-								["x"] = -231.500061035156,
-								["point"] = "CENTER",
-							},
-						}, -- [2]
-						{
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -82,
-								["point"] = "BOTTOMRIGHT",
-							},
-							["padding"] = 5,
-						}, -- [3]
-						{
-							["rows"] = 12,
-							["version"] = 3,
-							["position"] = {
-								["y"] = 610,
-								["x"] = -42,
-								["point"] = "BOTTOMRIGHT",
-							},
-							["padding"] = 5,
-						}, -- [4]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = 110,
-								["x"] = 3,
-								["point"] = "BOTTOM",
-							},
-							["padding"] = 6,
-						}, -- [5]
-						{
-							["version"] = 3,
-							["position"] = {
-								["y"] = 110,
-								["x"] = -510,
-								["point"] = "BOTTOM",
-							},
-							["padding"] = 6,
-						}, -- [6]
-						{
-						}, -- [7]
-						{
-						}, -- [8]
-						nil, -- [9]
-						{
-							["rows"] = 3,
-							["enabled"] = true,
-							["version"] = 3,
-							["position"] = {
-								["x"] = 286.506469726563,
-								["point"] = "CENTER",
-								["y"] = 223.978179931641,
-							},
-						}, -- [10]
-					},
-				},
 			},
 		},
 		["MicroMenu"] = {
 			["profiles"] = {
+				["bf_infobox"] = {
+					["position"] = {
+						["y"] = 53.5044671761139,
+						["x"] = -188.017795013773,
+						["point"] = "BOTTOMRIGHT",
+						["scale"] = 0.850000023841858,
+					},
+					["version"] = 3,
+					["padding"] = -2,
+				},
 				["Ramipasi - 匕首岭"] = {
 					["padding"] = -2,
 					["version"] = 3,
@@ -157,21 +167,19 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 						["y"] = 62,
 					},
-				},
-				["bf_infobox"] = {
-					["position"] = {
-						["y"] = 62,
-						["x"] = 33,
-						["point"] = "BOTTOM",
-						["scale"] = 1,
-					},
-					["version"] = 3,
-					["padding"] = -2,
 				},
 			},
 		},
 		["XPBar"] = {
 			["profiles"] = {
+				["bf_infobox"] = {
+					["position"] = {
+						["y"] = -42.8499145507813,
+						["x"] = 416.278289794922,
+						["point"] = "TOPLEFT",
+					},
+					["version"] = 3,
+				},
 				["Ramipasi - 匕首岭"] = {
 					["enabled"] = true,
 					["version"] = 3,
@@ -180,21 +188,19 @@ Bartender4DB = {
 						["x"] = -514,
 						["point"] = "BOTTOM",
 					},
-				},
-				["bf_infobox"] = {
-					["enabled"] = true,
-					["position"] = {
-						["y"] = 54,
-						["x"] = -514,
-						["point"] = "BOTTOM",
-					},
-					["version"] = 3,
-					["clickthrough"] = true,
 				},
 			},
 		},
 		["BlizzardArt"] = {
 			["profiles"] = {
+				["bf_infobox"] = {
+					["position"] = {
+						["y"] = 47,
+						["x"] = -512,
+						["point"] = "BOTTOM",
+					},
+					["version"] = 3,
+				},
 				["Ramipasi - 匕首岭"] = {
 					["enabled"] = true,
 					["version"] = 3,
@@ -203,21 +209,14 @@ Bartender4DB = {
 						["x"] = -512,
 						["point"] = "BOTTOM",
 					},
-				},
-				["bf_infobox"] = {
-					["enabled"] = true,
-					["position"] = {
-						["y"] = 47,
-						["x"] = -512,
-						["point"] = "BOTTOM",
-					},
-					["version"] = 3,
 				},
 			},
 		},
 		["UnitFrames"] = {
 			["profiles"] = {
 				["bf_infobox"] = {
+					["uiScale"] = 0.799999952316284,
+					["useUiScale"] = 1,
 					["unitframes"] = {
 						["PartyMemberFrame2"] = {
 							["version"] = 3,
@@ -237,23 +236,35 @@ Bartender4DB = {
 						["PartyMemberFrame1"] = {
 							["version"] = 3,
 						},
-						["CastingBarFrame"] = {
+						["TargetFrame"] = {
 							["version"] = 3,
 						},
 						["PartyMemberFrame3"] = {
 							["version"] = 3,
 						},
-						["TargetFrame"] = {
+						["CastingBarFrame"] = {
+							["position"] = {
+								["y"] = 216.425811767578,
+								["x"] = -135.871826171875,
+							},
 							["version"] = 3,
 						},
 					},
-					["useUiScale"] = 1,
-					["uiScale"] = 0.849999964237213,
 				},
 			},
 		},
 		["BagBar"] = {
 			["profiles"] = {
+				["bf_infobox"] = {
+					["enabled"] = false,
+					["version"] = 3,
+					["position"] = {
+						["y"] = 160.450681990755,
+						["x"] = -204.004685110631,
+						["point"] = "BOTTOMRIGHT",
+						["scale"] = 0.850000023841858,
+					},
+				},
 				["Ramipasi - 匕首岭"] = {
 					["padding"] = 5,
 					["version"] = 3,
@@ -263,19 +274,19 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["bf_infobox"] = {
-					["version"] = 3,
-					["position"] = {
-						["y"] = 41,
-						["x"] = 296,
-						["point"] = "BOTTOM",
-					},
-					["padding"] = 5,
-				},
 			},
 		},
 		["StanceBar"] = {
 			["profiles"] = {
+				["bf_infobox"] = {
+					["position"] = {
+						["y"] = 227.96195131374,
+						["x"] = -341.784567773419,
+						["point"] = "BOTTOM",
+						["scale"] = 1.45000004768372,
+					},
+					["version"] = 3,
+				},
 				["Ramipasi - 匕首岭"] = {
 					["version"] = 3,
 					["position"] = {
@@ -285,28 +296,19 @@ Bartender4DB = {
 						["y"] = 143,
 					},
 				},
-				["bf_infobox"] = {
-					["position"] = {
-						["y"] = 158.849998738848,
-						["x"] = 340.690538547467,
-						["point"] = "BOTTOMLEFT",
-						["scale"] = 1.45000004768372,
-					},
-					["version"] = 3,
-				},
 			},
 		},
 		["PetBar"] = {
 			["profiles"] = {
-				["Ramipasi - 匕首岭"] = {
+				["bf_infobox"] = {
 					["version"] = 3,
 					["position"] = {
-						["y"] = 143,
-						["x"] = -120,
-						["point"] = "BOTTOM",
+						["y"] = -40.3917083740234,
+						["x"] = 35.9568786621094,
+						["point"] = "LEFT",
 					},
 				},
-				["bf_infobox"] = {
+				["Ramipasi - 匕首岭"] = {
 					["version"] = 3,
 					["position"] = {
 						["y"] = 143,
@@ -318,6 +320,15 @@ Bartender4DB = {
 		},
 		["RepBar"] = {
 			["profiles"] = {
+				["bf_infobox"] = {
+					["enabled"] = true,
+					["position"] = {
+						["y"] = -13.5000610351563,
+						["x"] = 381.14208984375,
+						["point"] = "TOPLEFT",
+					},
+					["version"] = 3,
+				},
 				["Ramipasi - 匕首岭"] = {
 					["enabled"] = true,
 					["version"] = 3,
@@ -327,15 +338,6 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["bf_infobox"] = {
-					["enabled"] = true,
-					["position"] = {
-						["y"] = 61,
-						["x"] = -514,
-						["point"] = "BOTTOM",
-					},
-					["version"] = 3,
-				},
 			},
 		},
 	},
@@ -343,12 +345,13 @@ Bartender4DB = {
 		["Ramipasi - 匕首岭"] = "bf_infobox",
 	},
 	["profiles"] = {
-		["Ramipasi - 匕首岭"] = {
-			["focuscastmodifier"] = false,
+		["bf_infobox"] = {
 			["blizzardVehicle"] = true,
+			["focuscastmodifier"] = false,
+			["snapping"] = false,
 			["outofrange"] = "hotkey",
 		},
-		["bf_infobox"] = {
+		["Ramipasi - 匕首岭"] = {
 			["focuscastmodifier"] = false,
 			["blizzardVehicle"] = true,
 			["outofrange"] = "hotkey",
